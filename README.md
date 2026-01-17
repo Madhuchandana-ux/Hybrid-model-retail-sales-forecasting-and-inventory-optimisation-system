@@ -29,7 +29,7 @@ Dashboard: Streamlit + Plotly
 # 1. Clone repo
 git clone Hybrid-model-retail-sales-forecasting-and-inventory-optimisation-system-repo
 
-# 2. Run notebook (cells 1-9)
+# 2. Run notebook (cells 1-16)
 jupyter notebook notebook.ipynb
 
 # 3. Launch dashboard
