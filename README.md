@@ -33,4 +33,4 @@ git clone Hybrid-model-retail-sales-forecasting-and-inventory-optimisation-syste
 jupyter notebook notebook.ipynb
 
 # 3. Launch dashboard
-streamlit run dashboard.py
+streamlit app.py
